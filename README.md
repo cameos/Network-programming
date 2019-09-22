@@ -6,3 +6,4 @@ creating, and maintaining clients that communicate via network
 -https://www.codeproject.com/Articles/12893/TCP-IP-Chat-Application-Using-C
 -https://www.codeproject.com/Articles/12286/Simple-Client-server-Interactions-using-C
 -https://www.codeproject.com/Tips/746102/Computer-Talker-with-Csharp
+-https://www.codeproject.com/Articles/1009151/Creating-a-server-client-application-using-native
