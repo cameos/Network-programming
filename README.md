@@ -9,3 +9,4 @@ creating, and maintaining clients that communicate via network
 -https://www.codeproject.com/Articles/1009151/Creating-a-server-client-application-using-native
 -https://www.codeproject.com/KB/session/
 -https://www.codeproject.com/Articles/461938/Small-File-Transfer-from-Server-to-Client
+-https://www.codeproject.com/Articles/819100/More-Attributes-of-Highly-Effective-Programmers
