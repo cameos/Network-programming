@@ -17,3 +17,4 @@ creating, and maintaining clients that communicate via network
 - https://msdn.microsoft.com/library/
 - https://github.com/sawch/Windows-API-Network-List-Manager
 - https://stackoverflow.com/a/1227079/4587917
+- https://stackoverflow.com/a/4042887/4587917
