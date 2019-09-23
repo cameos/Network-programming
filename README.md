@@ -14,3 +14,4 @@ creating, and maintaining clients that communicate via network
 - https://www.c-sharpcorner.com/article/socket-programming-in-C-Sharp/
 - https://gist.github.com/EricSch/11658
 - https://www.codeproject.com/Articles/16113/Retreiving-a-list-of-network-computer-names-using
+- https://msdn.microsoft.com/library/
