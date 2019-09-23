@@ -15,3 +15,5 @@ creating, and maintaining clients that communicate via network
 - https://gist.github.com/EricSch/11658
 - https://www.codeproject.com/Articles/16113/Retreiving-a-list-of-network-computer-names-using
 - https://msdn.microsoft.com/library/
+- https://github.com/sawch/Windows-API-Network-List-Manager
+- https://stackoverflow.com/a/1227079/4587917
