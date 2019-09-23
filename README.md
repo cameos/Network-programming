@@ -20,3 +20,6 @@ creating, and maintaining clients that communicate via network
 - https://stackoverflow.com/a/4042887/4587917
 - https://stackoverflow.com/questions/12942644/how-to-call-a-webapi-from-windows-service
 - https://stackoverflow.com/questions/37028896/how-to-call-a-rest-api-from-a-windows-service
+
+ # tasks and services
+ - https://stackoverflow.com/a/51156657/4587917
