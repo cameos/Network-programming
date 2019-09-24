@@ -24,3 +24,4 @@ creating, and maintaining clients that communicate via network
  # tasks and services
  - https://stackoverflow.com/a/51156657/4587917
  - https://stackoverflow.com/questions/31457655/system-componentmodel-win32exception-0x80004005-access-is-denied-on-ixwebhost
+ - https://www.c-sharpcorner.com/blogs/convert-numeric-value-into-words-using-jquery
