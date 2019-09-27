@@ -28,3 +28,14 @@ creating, and maintaining clients that communicate via network
  
  # Javascript
  - https://stackoverflow.com/questions/21164365/how-to-send-image-to-php-file-using-ajax
+ 
+ # Files
+ - https://www.codeproject.com/Articles/847726/Uploading-the-Files-HTML-and-jQuery-Way
+ - https://www.codeproject.com/Articles/1021004/Upload-File-Using-Ajax-And-HTML-in-MVC
+ - https://www.codeproject.com/Tips/1065501/File-Upload-Using-Html-File-API-Ajax-Post
+ - https://www.codeproject.com/Articles/806075/File-Upload-using-jQuery-AJAX-in-ASP-NET-Web-API
+ - https://www.codeproject.com/Tips/531692/Multiple-File-Upload-Using-jQuery
+ - https://www.codeproject.com/Questions/323063/Upload-Image-by-using-asp-net-mvc
+ 
+ # upload help
+ - https://www.codeproject.com/Articles/833159/Uploading-Image-by-File-Browsing-Dragging-Webcam
